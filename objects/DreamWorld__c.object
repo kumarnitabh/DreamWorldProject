@@ -163,6 +163,14 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>Phone_Dream_world__c</fullName>
+        <externalId>false</externalId>
+        <label>Phone_Dream_world</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+    </fields>
     <label>DreamWorld</label>
     <listViews>
         <fullName>All</fullName>
